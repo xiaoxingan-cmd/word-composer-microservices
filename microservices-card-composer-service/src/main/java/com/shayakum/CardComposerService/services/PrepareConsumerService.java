@@ -113,7 +113,6 @@ public class PrepareConsumerService implements Subject {
             subscribeToTopic(kafkaServiceUrl);
             retrieveAndProceedMessages(kafkaServiceUrl);
         }
-        // TODO: The app configured the consumer again although it was configured before restart minikube (not persistent volume?)
     }
 
     private void subscribeToTopic(String base_url) {
