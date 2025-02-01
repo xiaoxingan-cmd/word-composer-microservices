@@ -1,0 +1,20 @@
+s3:
+  apiKey: <YOUR_API_KEY_HERE>
+  secret: <YOUR_SECRET_HERE>
+  bucketName: image-handler-s3
+  serviceEndpoint: https://s3.storage.selcloud.ru
+  region: ru-1
+
+kafkaProducer:
+  url: http://127.0.0.1:8008/topics/
+  topicS: card-representor-topic
+  topicF: initial-topic
+
+kafkaConsumer:
+  url: http://127.0.0.1:8008
+  topic: image-handler-topic
+
+unsplash:
+  id: <YOUR_ID_HERE>
+  accessKey: <YOUR_ACCESS_KEY_HERE>
+  secret: <YOUR_SECRET_HERE>

@@ -1,0 +1,13 @@
+translator:
+  url: http://localhost:5000/translate
+
+dictionaryDef:
+  url: https://api.dictionaryapi.dev/api/v2/entries/en/
+
+kafkaProducer:
+  url: http://127.0.0.1:8008/topics/
+  topic: image-handler-topic
+
+kafkaConsumer:
+  url: http://127.0.0.1:8008
+  topic: initial-topic

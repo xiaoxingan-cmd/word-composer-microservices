@@ -1,0 +1,19 @@
+s3:
+  apiKey: <YOUR_API_KEY_HERE>
+  secret: <YOUR_SECRET_HERE>
+  bucketName: image-handler-s3
+  serviceEndpoint: https://s3.storage.selcloud.ru
+  region: ru-1
+
+imgbb:
+  apiName: imgbb.com
+  apiUrl: https://api.imgbb.com/1/upload?key=
+  apiKey: <YOUR_API_KEY_HERE>
+
+kafkaProducer:
+  url: http://127.0.0.1:8008/topics/
+  topic: initial-topic
+
+kafkaConsumer:
+  url: http://127.0.0.1:8008
+  topic: card-representor-topic
