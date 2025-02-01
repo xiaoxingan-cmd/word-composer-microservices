@@ -13,5 +13,5 @@
 > * S3 Container
 > * Self-hosted LibreTranslate in Docker
 > * Postgresql DB
-> * Elastic-Stack for logging(Optional)
+> * Elastic-Stack for logging(Optional) -> https://github.com/hannahmontana-554/elk-stack
 > * minikube -> strimzi config with 3 kafka topics: initial-topic, image-handler-topic, card-representor-topic
