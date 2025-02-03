@@ -6,7 +6,7 @@
 > Известные проблемы: кривая архитектура с постоянным сохранением статуса объекта и кучей лишних вызовов Utility-сервисов (S3/Database) могут сильно замедлять быстродействие и в некоторых случаях приводить к ошибкам. В идеале объект должен сохраняться только 1 раз, когда он будет полностью собран.
 
 > [!NOTE]  
-> * [Demo video](examples/459325760231.mp4)
+> * [Demo video (have to be downloaded first)](examples/459325760231.mp4)
 > * [WCM Scheme](https://www.figma.com/board/NAss9AIxLZl4a5mzyvPmw3/WCM-Scheme?node-id=27-296&t=xo68IR39sDgCMfbt-4)
 
 > [!NOTE]  
