@@ -7,6 +7,7 @@
 
 > [!NOTE]  
 > [Demo video](examples/459325760231.mp4)
+> [WCM Scheme](https://www.figma.com/board/NAss9AIxLZl4a5mzyvPmw3/WCM-Scheme?node-id=27-296&t=xo68IR39sDgCMfbt-4)
 
 > [!NOTE]  
 > Данное приложение помогает обрабатывать **англоязычные** слова, которые в последствии получают **перевод, транскрипцию, значение, а также изображение для создания карточки слова**.
